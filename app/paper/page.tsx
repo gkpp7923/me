@@ -10,7 +10,7 @@ export default function Page() {
             <main className={'inline-block mx-auto'}>
                 <div className={'paper'}>
                     <h1>Anya Forger</h1>
-                    <h2>アーニャ・フォージャー</h2>
+                    <h2>吉村元希</h2>
                     <h3>About</h3>
                     <p>○○大学○○学部○○学科の大学○年生．好きなものは○○，嫌いなものは○○．</p>
                     <h3>History</h3>
